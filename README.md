@@ -29,7 +29,7 @@
 ## 📊 Моя статистика на GitHub
 
 [![Игорь GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbsoJlut&show_icons=true&theme=radical)](https://github.com/AbsoJlut)  
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoJlut&layout=compact&theme=radical)](https://github.com/AbsoJlute)
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoJlut&layout=compact&theme=radical)](https://github.com/AbsoJlut)
 
 ---
 
@@ -44,14 +44,9 @@
 
 ## 💡 Мои проекты
 
-### 🚀 [Проект 1](https://github.com/yourusername/project1)
-Краткое описание проекта 1.
+### 🚀 [Дискорд бот](https://github.com/AbsoJlut/PivnayaBotDS)
+Пивная Бот — это функциональный Discord-бот, созданный для того, чтобы сделать ваше время на сервере более увлекательным и насыщенным. Бот предлагает различные команды, связанные с модерацией, а также другие развлекательные функции, которые помогут вам расслабиться и повеселиться с друзьями.
 
-### 🌟 [Проект 2](https://github.com/yourusername/project2)
-Краткое описание проекта 2.
-
-### 🎨 [Проект 3](https://github.com/yourusername/project3)
-Краткое описание проекта 3.
 
 ---
 
