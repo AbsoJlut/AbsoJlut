@@ -30,7 +30,7 @@
 
 ## 📊 Моя статистика на GitHub
 
-[![Игорь GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbsoJlut&show_icons=true&theme=radical)](https://github.com/AbsoJlut)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbsoJlut&show_icons=true&theme=radical)](https://github.com/AbsoJlut)  
 [![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoJlut&layout=compact&theme=radical)](https://github.com/AbsoJlut)
 
 ---
