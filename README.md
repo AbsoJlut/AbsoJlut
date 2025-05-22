@@ -30,9 +30,9 @@
 
 ## 📊 Моя статистика на GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbsoJlut&show_icons=true&theme=radical&cache_seconds=600)](https://github.com/AbsoJlut)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbsoJlut&show_icons=true&theme=radical&cache_seconds=500)](https://github.com/AbsoJlut)
 
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoJlut&layout=compact&theme=radical&cache_seconds=600)](https://github.com/AbsoJlut)
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoJlut&layout=compact&theme=radical&cache_seconds=500)](https://github.com/AbsoJlut)
 
 ---
 
@@ -49,6 +49,9 @@
 
 ### 🚀 [Дискорд бот](https://github.com/AbsoJlut/PivnayaBotDS)
 Пивная Бот — это функциональный Discord-бот, созданный для того, чтобы сделать ваше время на сервере более увлекательным и насыщенным. Бот предлагает различные команды, связанные с модерацией, а также другие развлекательные функции, которые помогут вам расслабиться и повеселиться с друзьями.
+
+### 🎮 [Телеграмм бот](https://github.com/AbsoJlut/TwitchStreamTGBot)
+Twitch Stream Bot — это Telegram-бот, который следит за статусом стримов на Twitch и отправляет уведомления в Telegram-канал о начале, продолжении и завершении трансляций. Бот использует Twitch API, поддерживает форматирование сообщений с MarkdownV2, добавляет интерактивные кнопки и работает в Docker-контейнере для простого развертывания.
 
 
 ---
