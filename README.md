@@ -30,9 +30,9 @@
 
 ## 📊 Моя статистика на GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbsoJlut&show_icons=true&theme=radical&cache_seconds=600)](https://github.com/AbsoJlut)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbsoJlut&show_icons=true&theme=radical&cache_seconds=300)](https://github.com/AbsoJlut)
 
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoJlut&layout=compact&theme=radical&cache_seconds=600)](https://github.com/AbsoJlut)
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=AbsoJlut&layout=compact&theme=radical&cache_seconds=300)](https://github.com/AbsoJlut)
 
 ---
 
@@ -41,7 +41,7 @@
 - 📧 **Email**: hexaton@shisoid.ru
 - 🌐 **Website**: [shisoid.ru](https://shisoid.ru)
 - 🎮 **Discord**: Shisoid
-- 📱 **Telegram**: [@AbsoJlut](https://t.me/essencezz)
+- 📱 **Telegram**: [@AbsoJlut](https://t.me/AbsoJlut)
 
 ---
 
