@@ -127,8 +127,6 @@ Discord-бот на Python с использованием Disnake.
 
 ## 📫 Как со мной связаться
 
-📧 **Email:** hexaton@shisoid.ru
-
 🌐 **Сайт:** [shisoid.ru](https://shisoid.ru)
 
 💬 **Telegram:** [@AbsoJlut](https://t.me/AbsoJlut)
