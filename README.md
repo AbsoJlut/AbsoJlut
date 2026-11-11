@@ -117,9 +117,9 @@ Discord-бот на Python с использованием Disnake.
 
 ## 📊 Моя статистика на GitHub
 
-![GitHub Stats](https://ghstats.dev/api/card?username=AbsoJlut&theme=radical&time=600)
+![GitHub Stats](https://ghstats.dev/api/card?username=AbsoJlut&theme=radical)
 
-![Top Languages](https://ghstats.dev/api/langs?username=AbsoJlut&theme=radical&layout=grid&time=600)
+![Top Languages](https://ghstats.dev/api/langs?username=AbsoJlut&theme=radical&layout=grid)
 
 *Часть моих проектов находится в приватных репозиториях, поэтому публичная статистика отражает не всю активность.*
 
